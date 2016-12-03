@@ -1,0 +1,8 @@
+[package]
+name = "thrash-mask"
+version = "0.1.0"
+authors = ["Will Tange <will@brt.sexy>"]
+
+[dependencies]
+getopts = "0.2"
+image = "0.10"
